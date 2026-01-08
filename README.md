@@ -1,1 +1,2 @@
-# CC105_DB_CERADO-Student_info
+Good day, im  Neil Janwin T. Cerado, from BSCS 2B, i choose student info because some of my cousins were teachers. So for my database i have five tables which is students, classes, enrollment, teachers and courses. i made this to help my cousins in determining enrolled students on each subject so they can determine irregular and regular students in college.
+<img width="1536" height="1024" alt="462d9d97-26dc-466b-9e52-9b0ea58efa87" src="https://github.com/user-attachments/assets/833e6fae-7085-46bf-9b7f-b318e6d18990" />
